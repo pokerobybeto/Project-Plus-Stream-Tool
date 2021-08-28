@@ -1,13 +1,11 @@
 ![preview](https://cdn.discordapp.com/attachments/799303953912168469/881011199783895120/unknown.png)
 
 # Ultimate-Stream-Tool
-*Also available for [Melee](https://github.com/Readek/Melee-Stream-Tool), Also available for [Ultimate](https://github.com/pokeroby_beto/Ultimate-Stream-Tool) [Rivals of Aether](https://github.com/Readek/RoA-Stream-Tool), [Rushdown Revolt](https://github.com/Readek/Rushdown-Revolt-Stream-Tool)!*
+*Also available for [Melee](https://github.com/Readek/Melee-Stream-Tool), [Ultimate](https://github.com/pokeroby_beto/Ultimate-Stream-Tool), [Rivals of Aether](https://github.com/Readek/RoA-Stream-Tool), [Rushdown Revolt](https://github.com/Readek/Rushdown-Revolt-Stream-Tool)!*
 
 So you're interested in doing Project+ streams, huh? Luckily for you, with this tool you'll be able to update all the variables you need for the provided overlays with the provided GUI, and easily customize the overlays to make them your own! 
 
 The tool is free, but if you want to keep supporting the project and other Smash and non related stuff, you can donate me something on [Paypal](https://www.paypal.me/robertofiore2712). Thanks in advance!
-
-If you are also interested in adapting your layout with the stream tool or having a brand new one, lucky for you, I'm open for commisions! Contact me on Twitter [@pokeroby_beto](https://twitter.com/pokeroby_beto).
 
 ---
 

@@ -1,0 +1,29 @@
+{
+    "skinList": [
+        "Ice Climbers (1)",
+        "Ice Climbers (2)",
+        "Ice Climbers (3)",
+        "Ice Climbers (4)",
+        "Ice Climbers (5)",
+        "Ice Climbers (6)",
+        "Ice Climbers (7)",
+        "Ice Climbers (8)",
+        "Ice Climbers (9)",
+        "Ice Climbers (10)",
+        "Ice Climbers (11)",
+        "Ice Climbers (12)",
+        "Ice Climbers (13)",
+        "Ice Climbers (14)",
+        "Ice Climbers (15)"
+    ],
+    "Left": {
+        "x": -75,
+        "y": 160,
+        "scale": 1.4
+    },
+    "Right": {
+        "x": 650,
+        "y": 0,
+        "scale": 1.3
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "skinList": [
+        "Sheik (1)",
+        "Sheik (2)",
+        "Sheik (3)",
+        "Sheik (4)",
+        "Sheik (5)",
+        "Sheik (6)",
+        "Sheik (7)",
+        "Sheik (8)",
+        "Sheik (9)",
+        "Sheik (10)",
+        "Sheik (11)",
+        "Sheik (12)",
+        "Sheik (13)",
+        "Sheik (14)",
+        "Sheik (15)"
+    ],
+    "Left": {
+        "x": -75,
+        "y": 160,
+        "scale": 1.4
+    },
+    "Right": {
+        "x": 650,
+        "y": 0,
+        "scale": 1.3
+    }
+}

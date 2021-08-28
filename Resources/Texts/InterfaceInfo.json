@@ -1,0 +1,71 @@
+{
+    "charactersBase": [
+        "Mario",
+		"Luigi",
+		"Peach",
+		"Wario",
+		"Yoshi",
+		"Bowser",
+		"Donkey Kong",
+		"Diddy Kong",
+		"Captain Falcon",
+		"Fox",
+		"Falco",
+		"Wolf",
+		"Link",
+		"Toon Link",
+		"Zelda",
+		"Sheik",
+		"Ganondorf",
+		"Pikachu",
+		"Jigglypuff",
+		"Mewtwo",
+		"Squirtle",
+		"Ivysaur",
+		"Charizard",
+		"Lucario",
+		"Samus",
+		"Zero Suit Samus",
+		"Ness",
+		"Lucas",
+		"Kirby",
+		"Meta Knight",
+		"King Dedede",
+		"Marth",
+		"Roy",
+		"Ike",
+		"Mr Game & Watch",
+		"Rob",
+		"Ice Climbers",
+		"Pit",
+		"Random",
+		"Olimar",
+		"Snake",
+		"Sonic",
+		"Knuckles",
+		"Giga Bowser",
+		"Wario Man"
+    ],
+    "colorSlots": {
+        "color0": {
+            "name": "Red",
+            "hex": "#E90004"
+        },
+        "color1": {
+            "name": "Blue",
+            "hex": "#0A69E7"
+        },
+        "color2": {
+            "name": "Yellow",
+            "hex": "#EDAD09"
+        },
+        "color3": {
+            "name": "Green",
+            "hex": "#0DB321"
+        },
+        "color4": {
+            "name": "CPU",
+            "hex": "#808080"
+        }
+    }
+}

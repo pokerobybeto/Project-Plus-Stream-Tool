@@ -1,0 +1,30 @@
+{
+    "skinList": [
+        "Giga Bowser (1)",
+        "Giga Bowser (2)",
+        "Giga Bowser (3)",
+        "Giga Bowser (4)",
+        "Giga Bowser (5)",
+        "Giga Bowser (6)",
+        "Giga Bowser (7)",
+        "Giga Bowser (8)",
+        "Giga Bowser (9)",
+        "Giga Bowser (10)",
+        "Giga Bowser (11)",
+        "Giga Bowser (12)",
+        "Giga Bowser (13)",
+        "Giga Bowser (14)",
+        "Giga Bowser (15)"
+        
+    ],
+    "Left": {
+        "x": -75,
+        "y": 160,
+        "scale": 1.4
+    },
+    "Right": {
+        "x": 650,
+        "y": 0,
+        "scale": 1.3
+    }
+}

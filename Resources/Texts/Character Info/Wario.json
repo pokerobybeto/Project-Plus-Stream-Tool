@@ -1,0 +1,32 @@
+{
+    "skinList": [
+        "Wario (1)",
+        "Wario (2)",
+        "Wario (3)",
+        "Wario (4)",
+        "Wario (5)",
+        "Wario (6)",
+        "Wario (7)",
+        "Wario (8)",
+        "Wario (9)",
+        "Wario (10)",
+        "Wario (11)",
+        "Wario (12)",
+        "Wario (13)",
+        "Wario (14)",
+        "Wario (15)",
+        "Wario (16)",
+        "Wario (17)",
+        "Wario (18)"
+    ],
+    "Left": {
+        "x": -75,
+        "y": 160,
+        "scale": 1.4
+    },
+    "Right": {
+        "x": 650,
+        "y": 0,
+        "scale": 1.3
+    }
+}

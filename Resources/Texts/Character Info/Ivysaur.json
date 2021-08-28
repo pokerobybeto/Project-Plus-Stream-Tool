@@ -1,0 +1,29 @@
+{
+    "skinList": [
+        "Ivysaur (1)",
+        "Ivysaur (2)",
+        "Ivysaur (3)",
+        "Ivysaur (4)",
+        "Ivysaur (5)",
+        "Ivysaur (6)",
+        "Ivysaur (7)",
+        "Ivysaur (8)",
+        "Ivysaur (9)",
+        "Ivysaur (10)",
+        "Ivysaur (11)",
+        "Ivysaur (12)",
+        "Ivysaur (13)",
+        "Ivysaur (14)",
+        "Ivysaur (15)"
+    ],
+    "Left": {
+        "x": -75,
+        "y": 160,
+        "scale": 1.4
+    },
+    "Right": {
+        "x": 650,
+        "y": 0,
+        "scale": 1.3
+    }
+}

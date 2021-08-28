@@ -1,0 +1,29 @@
+{
+    "skinList": [
+        "Squirtle (1)",
+        "Squirtle (2)",
+        "Squirtle (3)",
+        "Squirtle (4)",
+        "Squirtle (5)",
+        "Squirtle (6)",
+        "Squirtle (7)",
+        "Squirtle (8)",
+        "Squirtle (9)",
+        "Squirtle (10)",
+        "Squirtle (11)",
+        "Squirtle (12)",
+        "Squirtle (13)",
+        "Squirtle (14)",
+        "Squirtle (15)"
+    ],
+    "Left": {
+        "x": -75,
+        "y": 160,
+        "scale": 1.4
+    },
+    "Right": {
+        "x": 650,
+        "y": 0,
+        "scale": 1.3
+    }
+}

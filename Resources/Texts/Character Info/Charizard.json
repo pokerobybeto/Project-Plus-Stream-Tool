@@ -1,0 +1,29 @@
+{
+    "skinList": [
+        "Charizard (1)",
+        "Charizard (2)",
+        "Charizard (3)",
+        "Charizard (4)",
+        "Charizard (5)",
+        "Charizard (6)",
+        "Charizard (7)",
+        "Charizard (8)",
+        "Charizard (9)",
+        "Charizard (10)",
+        "Charizard (11)",
+        "Charizard (12)",
+        "Charizard (13)",
+        "Charizard (14)",
+        "Charizard (15)"
+    ],
+    "Left": {
+        "x": -75,
+        "y": 160,
+        "scale": 1.4
+    },
+    "Right": {
+        "x": 650,
+        "y": 0,
+        "scale": 1.3
+    }
+}

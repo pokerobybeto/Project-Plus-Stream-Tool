@@ -12,8 +12,8 @@ The tool is free, but if you want to keep supporting the project and other Smash
 ## Features
 - [Handy interface](https://cdn.discordapp.com/attachments/799303953912168469/881017042038321192/unknown.png) to quickly change everything you need, like player names, characters, scores, round, casters...
 - Easy and fast setup using a browser source. Drag and drop!
-- A game overlay for both [16:9](https://twitter.com/pokeroby_beto/status/1431456941914705924/photo/4) and [4:3](https://twitter.com/pokeroby_beto/status/1431456941914705924/photo/3) is included, with renders and stock icons for all characters and skins!
-- A [VS Screen](https://twitter.com/pokeroby_beto/status/1431456941914705924/photo/2) is also included, to be used in pauses between games.
+- A game overlay for both [16:9](https://pbs.twimg.com/media/E92NbjHWUAE0lxY?format=jpg&name=large) and [4:3](https://pbs.twimg.com/media/E92NbJ7XMAIyAWb?format=jpg&name=large) is included, with renders and stock icons for all characters and skins!
+- A [VS Screen](https://pbs.twimg.com/media/E92NaovWQAQ8hN3?format=jpg&name=large) is also included, to be used in pauses between games.
 - Easy to customize! Made in html/javascript, every file can be edited at will!
 - This is **not** a Stream Control clone. It doesn't have anything to do with it, everything is custom made.
 - If you have any feedback, whether it's an issue with the program or a feature you'd like to see in a future release, you can write down your suggestions in [this form](https://forms.gle/2TLLcnd1nxtHohZs5)

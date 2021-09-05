@@ -1,21 +1,19 @@
 ![preview](https://cdn.discordapp.com/attachments/799303953912168469/881011199783895120/unknown.png)
 
-# Ultimate-Stream-Tool
-*Also available for [Melee](https://github.com/Readek/Melee-Stream-Tool), Also available for [Ultimate](https://github.com/pokeroby_beto/Ultimate-Stream-Tool) [Rivals of Aether](https://github.com/Readek/RoA-Stream-Tool), [Rushdown Revolt](https://github.com/Readek/Rushdown-Revolt-Stream-Tool)!*
+# Project+ Stream Tool
+*Also available for [Melee](https://github.com/Readek/Melee-Stream-Tool), [Ultimate](https://github.com/pokeroby_beto/Ultimate-Stream-Tool), [Rivals of Aether](https://github.com/Readek/RoA-Stream-Tool) and [Rushdown Revolt](https://github.com/Readek/Rushdown-Revolt-Stream-Tool)!*
 
 So you're interested in doing Project+ streams, huh? Luckily for you, with this tool you'll be able to update all the variables you need for the provided overlays with the provided GUI, and easily customize the overlays to make them your own! 
 
 The tool is free, but if you want to keep supporting the project and other Smash and non related stuff, you can donate me something on [Paypal](https://www.paypal.me/robertofiore2712). Thanks in advance!
 
-If you are also interested in adapting your layout with the stream tool or having a brand new one, lucky for you, I'm open for commisions! Contact me on Twitter [@pokeroby_beto](https://twitter.com/pokeroby_beto).
-
 ---
 
 ## Features
-- [Handy interface](https://pbs.twimg.com/media/E4AECGHVoAI92yx?format=jpg&name=medium) to quickly change everything you need, like player names, characters, scores, round, casters...
+- [Handy interface](https://cdn.discordapp.com/attachments/799303953912168469/881017042038321192/unknown.png) to quickly change everything you need, like player names, characters, scores, round, casters...
 - Easy and fast setup using a browser source. Drag and drop!
-- A [game overlay](https://pbs.twimg.com/media/E4AEEPVUYAIc19i?format=jpg&name=large) is included, with renders for all characters and skins!
-- A [VS Screen](https://pbs.twimg.com/media/E4AELv_VcAQTj5Q?format=jpg&name=large) is also included, to be used in pauses between games.
+- A game overlay for both [16:9](https://pbs.twimg.com/media/E92NbjHWUAE0lxY?format=jpg&name=large) and [4:3](https://pbs.twimg.com/media/E92NbJ7XMAIyAWb?format=jpg&name=large) is included, with renders and stock icons for all characters and skins!
+- A [VS Screen](https://pbs.twimg.com/media/E92NaovWQAQ8hN3?format=jpg&name=large) is also included, to be used in pauses between games.
 - Easy to customize! Made in html/javascript, every file can be edited at will!
 - This is **not** a Stream Control clone. It doesn't have anything to do with it, everything is custom made.
 - If you have any feedback, whether it's an issue with the program or a feature you'd like to see in a future release, you can write down your suggestions in [this form](https://forms.gle/2TLLcnd1nxtHohZs5)
@@ -23,12 +21,12 @@ If you are also interested in adapting your layout with the stream tool or havin
 ---
 
 ## Setup Guide
-You can watch [this video](https://www.youtube.com/watch?v=417QjymeOMk) I made or follow the steps below. 
+You can watch [this video](https://www.youtube.com/watch?v=417QjymeOMk) I made or follow the steps below. (It is for Smash Ultimate but it's the same thing).
 
 These are instructions for regular OBS Studio, but I imagine you can do the same with other streaming software:
 - Dowmload the ZIP file.
 - Extract somewhere.
-- Drag and drop `Game Scoreboard.html` into OBS, or add a new browser source in OBS pointing at the local file.
+- Drag and drop `Game Scoreboard 16.9/4.3.html` into OBS, or add a new browser source in OBS pointing at the local file.
 - If the source looks weird, manually set the source's propierties to 1920 width and 1080 height, or set your OBS canvas resolution to 1080p, or make the source fit the screen.
 - In the source's propierties, change *Use custom frame rate* -> `60` (if streaming at 60fps of course).
 - **Also tick** `Refresh browser when scene becomes active`.
@@ -58,8 +56,6 @@ The interface will also update basic text files with the match info at `Resource
 Note: unfortunately, the source code is not available to download. 
 
 You can still customize how your Scoreboard and VS screen look by replacing the files in the overlay folder.
-
-For the overlays/images, there are PSD files for both the game scoreboard and the VS screen to help you customize them.
 
 While to change the position of the icons and writings you should modify parts of the code contained in the `html` and `js` files.
 

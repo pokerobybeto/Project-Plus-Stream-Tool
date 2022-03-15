@@ -53,8 +53,6 @@ The interface will also update basic text files with the match info at `Resource
 
 ## Customizing stuff
 
-Note: unfortunately, the source code is not available to download. 
-
 You can still customize how your Scoreboard and VS screen look by replacing the files in the overlay folder.
 
 While to change the position of the icons and writings you should modify parts of the code contained in the `html` and `js` files.
